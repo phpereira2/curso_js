@@ -1,6 +1,6 @@
 class Mamimero {
     constructor(patas) {
-        this.patas = pastas;
+        this.patas = patas;
     }
 }
 
